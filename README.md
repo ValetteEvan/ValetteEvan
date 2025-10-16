@@ -3,8 +3,6 @@
 Passionate developer focused on **web**, **mobile applications**, and emerging technologies.  
 Currently learning continuously and always ready to take on new challenges!
 
----
-
 ## Main Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,7 +14,6 @@ Currently learning continuously and always ready to take on new challenges!
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-2E8B57?style=for-the-badge)
 
----
 
 ## AI & Automation Stack
 
@@ -24,7 +21,6 @@ Currently learning continuously and always ready to take on new challenges!
 ![Claude AI](https://img.shields.io/badge/Claude_AI-1A1A1A?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-4B6CFF?style=for-the-badge)
 
----
 
 ## Tools & Others
 
@@ -33,6 +29,5 @@ Currently learning continuously and always ready to take on new challenges!
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/evan-valette/) | [Portfolio](#)
