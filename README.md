@@ -35,12 +35,6 @@ Currently learning continuously and always ready to take on new challenges!
 
 ---
 
-## 📈 GitHub Stats
-
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValetteEvan&show_icons=true&theme=radical)
-
----
-
 ## ✨ About Me
 
 - Application developer  
