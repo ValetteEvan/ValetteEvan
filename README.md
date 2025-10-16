@@ -18,6 +18,14 @@ Currently learning continuously and always ready to take on new challenges!
 
 ---
 
+## 🤖 AI & Automation Stack
+
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-1A1A1A?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-4B6CFF?style=for-the-badge)
+
+---
+
 ## 🔧 Tools & Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,7 +44,7 @@ Currently learning continuously and always ready to take on new challenges!
 ## ✨ About Me
 
 - Application developer  
-- Currently learning **backend JS/TS and mobile development**  
+- Currently learning **backend JS/TS, mobile development, and AI tools**  
 - Open to collaborations and interesting projects  
 
 ---
