@@ -1,11 +1,11 @@
-# 👋 Salut, je suis Evan Valette
+# Evan Valette
 
-Développeur passionné par le **web**, les **applications mobiles**, et les **jeux vidéo**.  
-Actuellement en apprentissage continu et toujours prêt à relever de nouveaux défis !
+Passionate developer focused on **web**, **mobile applications**, and emerging technologies.  
+Currently learning continuously and always ready to take on new challenges!
 
 ---
 
-## 💻 Stack Principale
+## 💻 Main Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
@@ -18,7 +18,7 @@ Actuellement en apprentissage continu et toujours prêt à relever de nouveaux d
 
 ---
 
-## 🔧 Outils & Autres
+## 🔧 Tools & Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -33,12 +33,12 @@ Actuellement en apprentissage continu et toujours prêt à relever de nouveaux d
 
 ---
 
-## ✨ À propos de moi
+## ✨ About Me
 
--  Développeur d'applications  
--  Je me forme actuellement au **backend JS/TS et mobile**  
--  Je suis ouvert aux collaborations et projets intéressants  
+- Application developer  
+- Currently learning **backend JS/TS and mobile development**  
+- Open to collaborations and interesting projects  
 
 ---
 
-📫 **Contact** : [LinkedIn](https://www.linkedin.com/in/evan-valette/) | [Portfolio](#)
+📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/evan-valette/) | [Portfolio](#)
