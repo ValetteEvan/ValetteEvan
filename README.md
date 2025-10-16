@@ -29,7 +29,7 @@ Actuellement en apprentissage continu et toujours prêt à relever de nouveaux d
 
 ## 📈 GitHub Stats
 
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanValette&show_icons=true&theme=radical)
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValetteEvan&show_icons=true&theme=radical)
 
 ---
 
