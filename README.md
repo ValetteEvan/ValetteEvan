@@ -5,7 +5,7 @@ Currently learning continuously and always ready to take on new challenges!
 
 ---
 
-## 💻 Main Stack
+## Main Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
@@ -18,7 +18,7 @@ Currently learning continuously and always ready to take on new challenges!
 
 ---
 
-## 🤖 AI & Automation Stack
+## AI & Automation Stack
 
 ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-1A1A1A?style=for-the-badge)
@@ -26,20 +26,12 @@ Currently learning continuously and always ready to take on new challenges!
 
 ---
 
-## 🔧 Tools & Others
+## Tools & Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## ✨ About Me
-
-- Application developer  
-- Currently learning **backend JS/TS, mobile development, and AI tools**  
-- Open to collaborations and interesting projects  
 
 ---
 
