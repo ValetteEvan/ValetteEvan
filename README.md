@@ -1,4 +1,4 @@
-# 🤖 Evan Valette | AI-First Fullstack Developer
+# Evan Valette | AI-First Fullstack Developer
 
 > **Propulser le développement web et mobile grâce à l'écosystème agentique.**
 > Spécialiste de l'automatisation intelligente et de l'intégration de LLM via MCP.
